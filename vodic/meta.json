@@ -1,0 +1,47 @@
+{
+  "info": {
+    "id": "goodfood",
+    "guideKey": "gf-guide-done",
+    "storageKey": "good-food-bg",
+    "fulfillments": [
+      "delivery",
+      "pickup"
+    ],
+    "sizes": 6,
+    "name": "Good Food",
+    "address": "Gospodara Vučića 204a (ugao Vojislava Ilića), Beograd",
+    "phone": "064 267 2700",
+    "hours": "Non-stop · 24/7",
+    "instagram": "",
+    "logo": "logo.webp",
+    "deliveryFee": 250,
+    "cardPayment": [],
+    "locations": 2,
+    "categories": 8,
+    "menu": "static",
+    "menuItems": 94,
+    "closedToday": false,
+    "soldOutToday": [],
+    "orders": "local",
+    "tenantPath": "goodfood",
+    "emulator": false
+  },
+  "style": {
+    "bg": "#000000",
+    "card": "#1A1A1A",
+    "inset": "#111111",
+    "line": "#333333",
+    "primary": "#FCB018",
+    "onPrimary": "#000000",
+    "dark": "#F5F5F5",
+    "dark2": "#FFFFFF",
+    "cta": "#0F7A45",
+    "ink": "#FFFFFF",
+    "ink2": "#BDBDBD",
+    "font": "\"Quicksand\", \"Nunito Sans\", \"Avenir Next\", system-ui, sans-serif",
+    "tracking": "0",
+    "case": "none",
+    "weight": "700",
+    "scale": "0.82"
+  }
+}
